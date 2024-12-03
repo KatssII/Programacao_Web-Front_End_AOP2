@@ -103,7 +103,7 @@ header.shadow .logo{
 .home {
     width: 100%;
     min-height: 440px;
-    background: url("/img/twiceheader.jpg") no-repeat center center;
+    background: url("../img/twiceheader.jpg") no-repeat center center;
     background-size: cover;
     display: grid;
     justify-content: center;
@@ -233,12 +233,12 @@ footer{
     background: #111;
     display: flex;
     font-family: sans-serif;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .footer-container{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     flex-direction: row;
 }
